@@ -21,5 +21,7 @@ public:
             mpp[nums[i]]=i;
         }
         return {-1,-1};
+
+
     }
 };

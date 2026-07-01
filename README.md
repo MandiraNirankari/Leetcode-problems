@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MandiraNirankari/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/MandiraNirankari/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
+| [1920-build-array-from-permutation](https://github.com/MandiraNirankari/DSA/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MandiraNirankari/DSA/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/MandiraNirankari/DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->

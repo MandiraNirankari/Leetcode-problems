@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MandiraNirankari/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MandiraNirankari/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MandiraNirankari/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/MandiraNirankari/DSA/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MandiraNirankari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MandiraNirankari/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MandiraNirankari/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/MandiraNirankari/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MandiraNirankari/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MandiraNirankari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MandiraNirankari/DSA/tree/master/0075-sort-colors) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MandiraNirankari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MandiraNirankari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/MandiraNirankari/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MandiraNirankari/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MandiraNirankari/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MandiraNirankari/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MandiraNirankari/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MandiraNirankari/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
+| [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MandiraNirankari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MandiraNirankari/DSA/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MandiraNirankari/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/MandiraNirankari/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MandiraNirankari/DSA/tree/master/1929-concatenation-of-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MandiraNirankari/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MandiraNirankari/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MandiraNirankari/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/MandiraNirankari/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

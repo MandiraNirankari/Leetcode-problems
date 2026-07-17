@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MandiraNirankari/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MandiraNirankari/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/MandiraNirankari/DSA/tree/master/1512-number-of-good-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MandiraNirankari/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/MandiraNirankari/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/MandiraNirankari/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/MandiraNirankari/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/MandiraNirankari/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MandiraNirankari/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MandiraNirankari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/MandiraNirankari/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MandiraNirankari/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MandiraNirankari/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/MandiraNirankari/DSA/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1854-maximum-population-year) |
 ## Counting Sort
 |  |
 | ------- |

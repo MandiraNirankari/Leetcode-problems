@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MandiraNirankari/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/MandiraNirankari/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MandiraNirankari/DSA/tree/master/1732-find-the-highest-altitude) |

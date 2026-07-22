@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |

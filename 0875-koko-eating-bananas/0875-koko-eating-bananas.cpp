@@ -9,26 +9,31 @@ public:
         }
         return maxi;
     }
-    long long totalhrs(vector<int>& piles, int mid){
+
+    long long totalhrs(vector<int>& piles, int mid) {
     long long totalh = 0;
 
-    for(int x : piles){
+    for (int x : piles) {
         totalh += (x + mid - 1LL) / mid;
     }
 
     return totalh;
 }
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int low=1,high=findmax(piles);
-        while(low<=high){
-            int mid=(low+high)/2;
-            long long totalh=totalhrs(piles,mid);
-            if(totalh<=h){
-                high=mid-1;
-            }else{
-                low=mid+1;
-            }
-        }
-        return low;
+
+int minEatingSpeed(vector<int>& piles, int h) {
+    int low = 1, high = findmax(piles);
+
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+
+        long long totalh = totalhrs(piles, mid);
+
+        if (totalh <= h)
+            high = mid - 1;
+        else
+            low = mid + 1;
     }
+
+    return low;
+}
 };

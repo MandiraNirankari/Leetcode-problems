@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

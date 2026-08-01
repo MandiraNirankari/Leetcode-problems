@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MandiraNirankari/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |

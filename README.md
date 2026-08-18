@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MandiraNirankari/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MandiraNirankari/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MandiraNirankari/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MandiraNirankari/DSA/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MandiraNirankari/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MandiraNirankari/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [1773-count-items-matching-a-rule](https://github.com/MandiraNirankari/DSA/tree/master/1773-count-items-matching-a-rule) |
 ## Simulation
 |  |

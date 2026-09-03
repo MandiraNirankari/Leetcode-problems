@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MandiraNirankari/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MandiraNirankari/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0796-rotate-string) |
 | [1773-count-items-matching-a-rule](https://github.com/MandiraNirankari/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MandiraNirankari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MandiraNirankari/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MandiraNirankari/DSA/tree/master/1512-number-of-good-pairs) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MandiraNirankari/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MandiraNirankari/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/MandiraNirankari/DSA/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/1854-maximum-population-year) |
 ## Counting Sort
@@ -243,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MandiraNirankari/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
